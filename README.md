@@ -1,4 +1,4 @@
-# Infrastructure Multi-VM avec Vagrant (N3_Projet1)
+# Infrastructure Multi-VM avec Vagrant N3
 
 Ce projet configure un environnement de laboratoire complet avec trois machines virtuelles basées sur **AlmaLinux 9**, conçu pour simuler une architecture trois tiers (3-tier) classique.
 
